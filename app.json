@@ -1,0 +1,12 @@
+{
+  "name": "mountain-ver3",
+  "displayName": "mountain-ver3",
+  "expo": {
+    "name": "mountain-ver3",
+    "slug": "mountain-ver3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
